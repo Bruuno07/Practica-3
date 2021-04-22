@@ -7,7 +7,7 @@ public class Fibonacci {
 
         int numero, fibo1, fibo2, i;
 
-        umero = 10;
+        umero = 10; 
 
         System.out.println("Los " + numero + " primeros términos de la serie de Fibonacci son:");
 
